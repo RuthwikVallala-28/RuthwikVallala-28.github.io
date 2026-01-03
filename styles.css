@@ -1,0 +1,18 @@
+.header{
+            background-color: black;
+            color: white;
+        }
+ .middle{
+            background-color: purple;
+            color: white;
+        }
+.footer{
+            background-color: orange;
+            color: white;
+        }
+.container{
+    margin: 50px;
+}
+*{
+    margin:50px;
+}
