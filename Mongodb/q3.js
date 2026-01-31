@@ -1,0 +1,9 @@
+db.emp.insertOne({
+    name:"Lokesh",
+    email:"Loki@gmail.com",
+    department:"CSM",
+    salary:123455,
+    location:["FL","OH"],
+    date:Date()
+})
+db.emp.find()
