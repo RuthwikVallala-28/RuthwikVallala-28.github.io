@@ -17,3 +17,4 @@ db.emp.find(
     { $and:[{salary:{$gt:2000}},{department:"HR"}]},
     {name:1 , email:1},
 )
+//mongoDB...
